@@ -1,6 +1,8 @@
-#TypeGraphQL
+# TypeGraphQL
 
 1. setup type-graphql
+
+TypeGraphQL - https://typegraphql.ml/
 
 ```bash
 yarn add apollo-server-express express graphql reflect-metadata type-graphql
@@ -12,7 +14,23 @@ yarn add -D @types/express @types/graphql @types/node nodemon ts-node typescript
 
 ---
 
-2. register
+2. register resolver
+
+TypeOrm - https://typeorm.io/
+
+```bash
+yarn add pg typeorm bcryptjs
+```
+
+```bash
+yarn add -D @types/bcryptjs
+```
+
+### createdb
+createdb typegraphql-example
+
+---
+
 3. validation
 4. login
 5. authorization/middleware
