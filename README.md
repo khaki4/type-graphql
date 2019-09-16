@@ -27,11 +27,25 @@ yarn add -D @types/bcryptjs
 ```
 
 ### createdb
+
+```bash
 createdb typegraphql-example
+```
 
 ---
 
 3. validation
+
+```bash
+yarn add ts-node-dev --dev
+```
+
+```bash
+yarn add ts-node-dev --dev
+```
+
+---
+
 4. login
 5. authorization/middleware
 6. confirmation email
