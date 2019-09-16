@@ -41,7 +41,7 @@ yarn add ts-node-dev --dev
 ```
 
 ```bash
-yarn add ts-node-dev --dev
+yarn add class-validator
 ```
 
 ---
